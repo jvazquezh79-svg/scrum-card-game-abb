@@ -72,3 +72,5 @@ Videojuego diseñado y desarrollado por **Jesús Vázquez Hernández, PhD.**, 20
 Adaptación digital basada en *Scrum Card Game* de **Timofey Yevgrashyn**, publicado bajo Creative Commons Attribution-ShareAlike 4.0 International.
 
 Este trabajo se distribuye bajo la misma licencia: **[CC BY-SA 4.0](LICENSE)**. Puedes compartirlo y adaptarlo, incluso con fines comerciales, siempre que des atribución y distribuyas tus adaptaciones bajo esta misma licencia.
+
+La atribución exacta que debes conservar está en [NOTICE](NOTICE).
